@@ -1,51 +1,105 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "psikolojik danışmanlık",
+  "automotive": false,
+  "heroEyebrow": "GÜVENLİ VE ŞEFKATLİ PSİKOLOJİK DESTEK",
+  "heroTitle": "İçsel Dengeni ve Huzuru Yeniden Keşfet",
+  "heroDescription": "Zorlu yaşam süreçleriyle baş ederken yalnız değilsiniz. Uzman desteğiyle kendinize sakin, anlayışlı ve şefkatli bir alan açın.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "Gizlilik Esası",
+    "Yetkin Uzman Kadro",
+    "Bireye Özel Yaklaşım",
+    "Online ve Yüz Yüze"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
+      "value": "%98",
+      "label": "Danışan Memnuniyeti"
     },
     {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
+      "value": "3500+",
+      "label": "Seans Deneyimi"
     },
     {
-      "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "value": "10+",
+      "label": "Yıllık Tecrübe"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Kendinize Şefkatli Bir Alan Açın",
+  "aboutText": "Psikof, bireylerin içsel güçlerini keşfetmelerine ve yaşamın getirdiği dönemeçleri şefkatle aşmalarına destek olur. Bilimsel temeller ve empatik yaklaşımımızla güvenli bir alan sunuyoruz.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Yetişkin",
+    "İlişki & Aile",
+    "Çocuk & Ergen",
+    "Online Terapi"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Bireysel Terapi",
+      "shortTitle": "Bireysel Terapi",
+      "slug": "bireysel-yetiskin-terapisi",
+      "summary": "Kaygı, depresyon ve stresle başa çıkmanızı sağlayacak kişiselleştirilmiş terapi desteği.",
+      "category": "Yetişkin"
+    },
+    {
+      "title": "Çift Terapisi",
+      "shortTitle": "Çift Terapisi",
+      "slug": "cift-ve-evlilik-terapisi",
+      "summary": "İlişkinizdeki iletişim tıkanıklıklarını aşarak güven ve yakınlığı güçlendiren rehberlik.",
+      "category": "İlişki & Aile"
+    },
+    {
+      "title": "Aile Danışmanlığı",
+      "shortTitle": "Aile Danışmanlığı",
+      "slug": "aile-danismanligi",
+      "summary": "Aile içi çatışmaları çözümleme ve sağlıklı bağlar inşa etme odaklı görüşmeler.",
+      "category": "İlişki & Aile"
+    },
+    {
+      "title": "Çocuk & Ergen",
+      "shortTitle": "Çocuk & Ergen",
+      "slug": "cocuk-ve-ergen-danismanligi",
+      "summary": "Gelişimsel süreçlerde duygusal ve davranışsal zorluk yaşayan gençlere özel destek.",
+      "category": "Çocuk & Ergen"
+    },
+    {
+      "title": "Online Terapi",
+      "shortTitle": "Online Terapi",
+      "slug": "online-terapi",
+      "summary": "Mekândan bağımsız, güvenli video görüşmelerle kesintisiz psikolojik danışmanlık.",
+      "category": "Online Terapi"
+    },
+    {
+      "title": "Kaygı Yönetimi",
+      "shortTitle": "Kaygı Yönetimi",
+      "slug": "kaygi-ve-panik-yonetimi",
+      "summary": "Yoğun endişe, kaygı ve panik belirtilerini anlamlandırma ve kontrol altına alma desteği.",
+      "category": "Yetişkin"
+    },
+    {
+      "title": "Yas Danışmanlığı",
+      "shortTitle": "Yas Danışmanlığı",
+      "slug": "yas-ve-kayip-danismanligi",
+      "summary": "Kayıp ve köklü yaşam değişimlerinin getirdiği duygusal yükü dönüştürme süreci.",
+      "category": "Yetişkin"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Seanslar ne kadar sürer ve hangi sıklıkla yapılır?",
+      "answer": "Bireysel terapi seansları 50 dakika sürer. Görüşmeler danışanın ihtiyacına göre genellikle haftada bir seans olarak planlanır."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Online terapi yüz yüze terapi kadar etkili mi?",
+      "answer": "Bilimsel çalışmalar online terapinin yüz yüze terapi kadar etkili olduğunu göstermektedir. Güvenli ve sakin bir ortam sağlandığında benzer terapötik verim alınır."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "Görüşmelerde paylaştıklarım gizli kalır mı?",
+      "answer": "Tüm görüşmeler etik kurallar ve mesleki gizlilik ilkeleri kapsamında yürütülür. Paylaştığınız hiçbir bilgi izniniz olmadan üçüncü taraflarla paylaşılmaz."
+    },
+    {
+      "question": "İlk seans öncesi bir hazırlık yapmalı mıyım?",
+      "answer": "Herhangi bir hazırlık gerekmez. Terapi sürecine dair beklentilerinizi ve ihtiyaçlarınızı ilk seansta birlikte konuşarak yol haritası belirleriz."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "WhatsApp ile İletişim"
 }

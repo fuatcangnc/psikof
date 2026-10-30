@@ -3,7 +3,8 @@
 	"sites": [
 		{
 			"key": "root",
-			"name": "Yeni Site",
+			"name": "psikof",
+			"url": "https://app.wuppycms.com/preview/fuatcangnc-psikof-1rtq8/",
 			"media": "public",
 			"publishing": "review",
 			"collections": ["posts", "pages"]
